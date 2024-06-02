@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Scan_test_task</string>
+    <string name="scan">Scan</string>
+    <string name="check">Check</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="info_about_phone">Show you all info about phone</string>
+    <string name="info_about">Show you all info about</string>
+    <string name="device_info">Device info</string>
+    <string name="calibration">Calibration of sensors</string>
+    <string name="app_monitoring">App monitoring</string>
+    <string name="antivirus">AntiVirus</string>
+    <string name="device_memory">Device Memory Information</string>
+    <string name="file_manager">File manager</string>
+    <string name="battery_info">Battery info</string>
+    <string name="device_scan">Device Scan</string>
+    <string name="check_for_viruses">Check for Viruses</string>
+    <string name="go_to_app_section">Go to app section</string>
+</resources>
